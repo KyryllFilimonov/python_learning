@@ -1,2 +1,3 @@
 # python_learning
-# practice of autotest is shit creating
+# practice of autotest crap creating
+
